@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/bin/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/bin/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.deps.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/bin/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/bin/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/bin/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/refint/dominandoOrientacaoAObjetoDesafio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/dominandoOrientacaoAObjetoDesafio01.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/Atividades/dominandoOrientacaoAObjetoDesafio01/obj/Debug/net8.0/ref/dominandoOrientacaoAObjetoDesafio01.dll
